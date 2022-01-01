@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedHall
 - 👀 I’m interested in ... android , java, Kotlin and web development
-- 🌱 I’m currently learning ... Android development using Java
-- 💞️ I’m looking to collaborate on ... Android development
+- 🌱 I’m currently learning ... web development using HTML, CSS, JavaScript and 
+- 💞️ I’m looking to collaborate on ... web development
 - 📫 How to reach me ... omdadesginer@gmail.com
 
 <!---
