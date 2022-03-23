@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedHall
-- 👀 I’m interested in ... android , java, Kotlin and web development
-- 🌱 I’m currently learning ... web development using HTML, CSS, JavaScript and 
-- 💞️ I’m looking to collaborate on ... web development
+- 👀 I’m interested in ... Fullstack web development
+- 🌱 I’m currently learning ... backend web development
+- 💞️ I’m looking to collaborate on ... MERN Stack.
 - 📫 How to reach me ... omdadesginer@gmail.com
 
 <!---
